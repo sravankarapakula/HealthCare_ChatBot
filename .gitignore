@@ -1,0 +1,67 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local model files
+local_model/
+
+# Hugging Face Transformers cache
+huggingface/
+*.bin
+*.h5
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Log files
+*.log
+*.out
+
+# IDE settings
+.vscode/
+*.swp
+*.swo
+
+# Streamlit temporary files
+.streamlit/
+
+# Ignore compiled files
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Ignore distribution packages
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Node dependencies (if any for frontend)
+node_modules/
+
+# Ignore package manager files
+package-lock.json
+yarn.lock
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
