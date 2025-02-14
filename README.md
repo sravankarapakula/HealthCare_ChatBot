@@ -1,6 +1,6 @@
 AI Powered Healthcare Assistant Chatbot
 
-Project Overview
+Project Overview:
 
 This project implements an AI-powered Healthcare Assistant chatbot using Natural Language Processing (NLP) and Hugging Face's Transformers library. The chatbot assists users by providing health-related advice based on common symptoms like fever, headache, cough, and more. It uses a pre-trained BERT-based model for answering healthcare-related questions and NLTK for preprocessing the input text.
 
@@ -124,6 +124,6 @@ License
 This project is open-source and available under the MIT License.
 
 Author
-M V N Sandeep Naidu
+K SRAVAN KUMAR
 
 Feel free to contribute, suggest improvements, or raise issues!
